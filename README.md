@@ -1,0 +1,1 @@
+- This repo contains the code and output files for testing the difference in sound between a regular sine wave and a clipped sine wave.
